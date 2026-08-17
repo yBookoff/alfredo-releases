@@ -18,6 +18,13 @@ signature, and the public key is embedded in the app. Without the private key an
 archive cannot be swapped — the app simply refuses to install it. The update
 host does not need to be trusted.
 
+## About the "Source code" assets
+
+GitHub attaches a source archive to every release automatically, and there is no
+way to turn that off. Those archives contain this repository — a README, a CNAME
+file and the appcast, under a kilobyte in total. Alfredo's own source is not
+here and is not published.
+
 ## Install
 
 Grab the latest DMG from [Releases](../../releases/latest) and drag Alfredo into
