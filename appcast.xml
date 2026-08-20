@@ -3,6 +3,22 @@
     <channel>
         <title>Alfredo</title>
         <item>
+            <title>1.2.0</title>
+            <pubDate>Thu, 20 Aug 2026 10:06:27 +0200</pubDate>
+            <sparkle:version>14</sparkle:version>
+            <sparkle:shortVersionString>1.2.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/yBookoff/alfredo-releases/releases/download/v1.2.0/Alfredo-1.2.0.dmg" length="4114481" type="application/octet-stream" sparkle:edSignature="MRqfRp9DVmiXZA7ptSZrwZJoNhl0ta6Hkzd+FADLbKx9ad8JYe/OqEiM7Q2EuSNdFz+rQ03m5AvbIuKRtZRSAg=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/yBookoff/alfredo-releases/releases/download/v1.2.0/Alfredo14-13.delta" sparkle:deltaFrom="13" length="600110" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="TpaoFWAOSpAoL5J75TAWvBv3QLjc8fu9donnZXPAmQoCHIcEKHFkhALA1Up3tTZYzF95sNW8eKVkVnFB5uQtDQ=="/>
+                <enclosure url="https://github.com/yBookoff/alfredo-releases/releases/download/v1.2.0/Alfredo14-12.delta" sparkle:deltaFrom="12" length="792162" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="dVMw25aRzLZUDS86aPo43L1JQWDxaFyeoptok3AJue8LIbCo3ApI2vpkyQElA5sNojIk10KDuI1uXX1D3fgxBg=="/>
+                <enclosure url="https://github.com/yBookoff/alfredo-releases/releases/download/v1.2.0/Alfredo14-11.delta" sparkle:deltaFrom="11" length="792846" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="2bMvl7PQ3MnxIsLs7xE0Ih29ApfL1aPa0mZ5OS/Ip/Wg6ju4AJtAFkZxt9HCTA3UNnuvXbtMrmkcIbdfFTEsBA=="/>
+                <enclosure url="https://github.com/yBookoff/alfredo-releases/releases/download/v1.2.0/Alfredo14-10.delta" sparkle:deltaFrom="10" length="857154" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="hYQpJxD4p2NzRaWpdLZGzFe2ZMYkyUQ6YGP1Kcl4JtzDoOlr/BO18+vZuVnWs3lFyE51Rb2PuUaLdxXMmyNpDw=="/>
+                <enclosure url="https://github.com/yBookoff/alfredo-releases/releases/download/v1.2.0/Alfredo14-9.delta" sparkle:deltaFrom="9" length="864670" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Dsmz1ZK3F9japzI3JDv4L0VQ9pJJ+/ki13oyGKqBUQ3eZ4eoJDstZh+/43oy8iEQ6A3OStxela7AudTYMvULBQ=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.1.0</title>
             <pubDate>Tue, 18 Aug 2026 16:22:01 +0200</pubDate>
             <sparkle:version>13</sparkle:version>
@@ -31,20 +47,6 @@
                 <enclosure url="https://github.com/yBookoff/alfredo-releases/releases/download/v1.0.1/Alfredo12-10.delta" sparkle:deltaFrom="10" length="439906" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="azqj2+qWtsSbbQmFSfTR+ddbcXZtFR4DpJ3ddL1UPLh6ABQqaeSJ0Ch+9QoHSGeIOXFNiQdVeXxB7ihdYDtWAQ=="/>
                 <enclosure url="https://github.com/yBookoff/alfredo-releases/releases/download/v1.0.1/Alfredo12-9.delta" sparkle:deltaFrom="9" length="452246" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="5/RVKUXla1e3EsbOTFbMiYB/84XSo92zLKFAQdvWPdqvhEkLnfbCaDazcgffC8Fvooz7W2PF0ybNUee1BNANBg=="/>
                 <enclosure url="https://github.com/yBookoff/alfredo-releases/releases/download/v1.0.1/Alfredo12-8.delta" sparkle:deltaFrom="8" length="469158" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="PqFmNthz94QftnE+oXKqP8HRW+v2ZkmYC2t/S6dIZHcBzTL4Y8aCWnZOYwuZmB57yyAEIEFffptXLPf9kTSXDQ=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>1.0.0</title>
-            <pubDate>Tue, 18 Aug 2026 00:55:35 +0200</pubDate>
-            <sparkle:version>11</sparkle:version>
-            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/yBookoff/alfredo-releases/releases/download/v1.0.0/Alfredo-1.0.0.dmg" length="3720549" type="application/octet-stream" sparkle:edSignature="bzeOcXy7J2ohFs+rS10THKMmUwEJI5ftNlTRAv+WUJRFR2U4kJ3fM/2U8nP6KiiljMhhsQ2M+eiKEwg0K48NBA=="/>
-            <sparkle:deltas>
-                <enclosure url="https://github.com/yBookoff/alfredo-releases/releases/download/v1.0.0/Alfredo11-10.delta" sparkle:deltaFrom="10" length="440662" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="tXZy2J26bmqWmv5OewO3nMOegBzv2by/Csa/2xCJYRo1BVBoI8KxeopcsbFn+dDAQLGmuo71rXUn6Ll7+374AQ=="/>
-                <enclosure url="https://github.com/yBookoff/alfredo-releases/releases/download/v1.0.0/Alfredo11-9.delta" sparkle:deltaFrom="9" length="451282" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="EoqOzlnBd8gB9cLIX5g24ZGsrsqq5fNnuWsFnfZEVhV7oJFsx/2UQx63y7GFXGWzRbgMyeXru7B74aEZ8GD3AA=="/>
-                <enclosure url="https://github.com/yBookoff/alfredo-releases/releases/download/v1.0.0/Alfredo11-8.delta" sparkle:deltaFrom="8" length="471798" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="3MZIKBPVi5g747QEOa0+rFH7m9iJyC+n4fr+z2kD8Bb4LpFVZC7KW+5mZcd5V7TOXGM27xLMUo31ZKkpIcXuCA=="/>
             </sparkle:deltas>
         </item>
     </channel>
